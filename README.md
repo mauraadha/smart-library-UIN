@@ -85,7 +85,7 @@ We modeled the efficiency gains using **BPMN** (Business Process Model and Notat
 * **Modeling Tools:** Draw.io / Python (for architecture diagrams).
 * **Documentation:** UML (Use Case, Class Diagram, Sequence Diagram).
 * **Protocol:** RESTful API (JSON) over HTTPS.
-* **Hardware Spec:** Touchscreen Kiosk with 2D Barcode Scanner.
+* **Hardware Specifications:** Touchscreen Kiosk with 2D Barcode Scanner.
 
 ---
 
@@ -93,6 +93,6 @@ We modeled the efficiency gains using **BPMN** (Business Process Model and Notat
 This repository contains the digital artifacts of the analysis:
 * 📂 `/diagrams` - High-resolution UML and TOGAF diagrams.
 * 📂 `/docs` - The comprehensive PDF report of the architecture design.
-* [Open in Draw.io](https://app.diagrams.net/?#Uhttps://github.com/USERNAME/NAMA-REPO/raw/main/NAMA-FILE.drawio) - The visualization of use case diagram and kiosk's lend and return BPMN
+* [📂 Open in Draw.io](https://app.diagrams.net/?#Uhttps://github.com/mauraadha/smart-library-UIN/raw/main/Use%20Case%20and%20BPMNs.drawio.xml) - The visualization of use case diagram and kiosk's lend and return BPMN
 
 ---
